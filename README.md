@@ -1,6 +1,6 @@
 docker-centos7-hadoop
 
-基于centos官方镜像，构建hadoop集群，用户本地开发或测试。
+基于centos官方镜像，构建hadoop集群，用于本地开发或测试。
 
 centos7 hadoop2.6.0 jdk1.8
 
